@@ -3,14 +3,33 @@ const message = document.querySelector(".message");
 const bgMusic = document.getElementById("bg-music");
 
 const messages = [
-  "You're my happy pill ☀️",
-  "I love you more each day, Ica 💖",
-  "You make my world bloom 🌸",
-  "Thank you for being you 💜",
-  "My heart blossoms for you 🌷",
-  "Forever yours 💕",
+  "Com você, tudo faz sentido 💫",
+  "You're the missing piece I've been searching for 🧩",
+  "Minha vida ganhou cores com você 🎨",
   "Your smile makes my day ✨",
+  "Você ilumina meus dias 🌟",
+  "I fall for you more every day 🍂",
+  "Forever yours 💕",
+  "Seu abraço é meu lugar favorito 🏡",
   "With you, life is sweeter 🍯",
+  "You're my favorite hello and hardest goodbye 👋",
+  "Eternamente seu 💞",
+  "My love for you grows stronger every moment 💓",
+  "You complete me / Você me completa ❤️",
+  "Thank you for being you 💜",
+  "Obrigado por ser quem você é 🙏",
+  "You make ordinary moments extraordinary 🌈",
+  "Meu amor por você cresce a cada dia 💘",
+  "Your love is my greatest treasure 💎",
+  "Every day with you is a blessing / Cada dia com você é uma bênção 🙌",
+  "With you, I've found my forever home 💒",
+  "You're my happy pill ☀️",
+  "My heart blossoms for you 🌷",
+  "My heart beats for you / Meu coração bate por você 💓",
+  "In your arms is where I belong 🤗",
+  "Você é a razão do meu sorriso 😊",
+  "You make my world bloom 🌸",
+  "I love you more each day, Ica 💖"
 ];
 
 let blooming = false;
