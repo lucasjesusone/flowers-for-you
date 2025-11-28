@@ -23,13 +23,13 @@ const messages = [
   "Your love is my greatest treasure 💎",
   "Every day with you is a blessing / Cada dia com você é uma bênção 🙌",
   "With you, I've found my forever home 💒",
-  "You're my happy pill ☀️",
+  "You're my happy baby ☀️",
   "My heart blossoms for you 🌷",
   "My heart beats for you / Meu coração bate por você 💓",
   "In your arms is where I belong 🤗",
   "Você é a razão do meu sorriso 😊",
   "You make my world bloom 🌸",
-  "I love you more each day, Ica 💖"
+  "I love you more each day, honey 💖"
 ];
 
 let blooming = false;
