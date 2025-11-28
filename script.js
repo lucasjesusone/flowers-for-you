@@ -15,21 +15,20 @@ const messages = [
   "You're my favorite hello and hardest goodbye 👋",
   "Eternamente seu 💞",
   "My love for you grows stronger every moment 💓",
-  "You complete me / Você me completa ❤️",
+  "You complete me ❤️",
   "Thank you for being you 💜",
   "Obrigado por ser quem você é 🙏",
   "You make ordinary moments extraordinary 🌈",
   "Meu amor por você cresce a cada dia 💘",
   "Your love is my greatest treasure 💎",
-  "Every day with you is a blessing / Cada dia com você é uma bênção 🙌",
   "With you, I've found my forever home 💒",
-  "You're my happy pill ☀️",
+  "You're my happy baby ☀️",
   "My heart blossoms for you 🌷",
-  "My heart beats for you / Meu coração bate por você 💓",
+  "I think of you all day 💓",
   "In your arms is where I belong 🤗",
   "Você é a razão do meu sorriso 😊",
   "You make my world bloom 🌸",
-  "I love you more each day, Ica 💖"
+  "I love you more each day, honey 💖"
 ];
 
 let blooming = false;
