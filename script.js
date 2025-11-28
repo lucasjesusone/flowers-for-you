@@ -3,7 +3,7 @@ const message = document.querySelector(".message");
 const bgMusic = document.getElementById("bg-music");
 
 const messages = [
-  "Com você, tudo faz sentido 💫",
+  "Ana, com você, tudo faz sentido 💫",
   "You're the missing piece I've been searching for 🧩",
   "Minha vida ganhou cores com você 🎨",
   "Your smile makes my day ✨",
